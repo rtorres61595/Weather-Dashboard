@@ -119,8 +119,7 @@ method: "GET"
 
 
 //be able to click on the botton
-//use the value in the button to display that city weather
-
+//use the value in the button to display that city
 
 
 
